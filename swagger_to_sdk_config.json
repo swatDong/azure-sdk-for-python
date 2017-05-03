@@ -5,7 +5,9 @@
     "autorest": "latest",
     "autorest_options": {
       "Header": "MICROSOFT_MIT_NO_VERSION",
-      "payload-flattening-threshold": 2
+      "payload-flattening-threshold": 2,
+      "python": "",
+      "azure-arm": true
     },
     "autorest_markdown_cli": true,
     "wrapper_filesOrDirs": [],
